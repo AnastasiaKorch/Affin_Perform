@@ -1,0 +1,8 @@
+C:\Users\1\Documents\Affin_Perform\Affin_tranform\bin\Debug\Affin_tranform.exe.config
+C:\Users\1\Documents\Affin_Perform\Affin_tranform\bin\Debug\Affin_tranform.exe
+C:\Users\1\Documents\Affin_Perform\Affin_tranform\bin\Debug\Affin_tranform.pdb
+C:\Users\1\Documents\Affin_Perform\Affin_tranform\obj\Debug\Affin_tranform.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Affin_Perform\Affin_tranform\obj\Debug\Affin_tranform.Properties.Resources.resources
+C:\Users\1\Documents\Affin_Perform\Affin_tranform\obj\Debug\Affin_tranform.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Affin_Perform\Affin_tranform\obj\Debug\Affin_tranform.exe
+C:\Users\1\Documents\Affin_Perform\Affin_tranform\obj\Debug\Affin_tranform.pdb
